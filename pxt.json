@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "microbit_Christmas_tree",
     "description": "",
     "dependencies": {
         "core": "*",
